@@ -1,0 +1,91 @@
+<style>html {
+  height: 100%
+}
+
+body {
+  background-color: #F0ECE3;
+  color: #99A799;
+  align: center;
+}
+
+.content {
+  max-height: 60%;
+  max-width: 80%;
+  margin: auto;
+  padding: 10%
+}
+
+.content_contact {
+  margin: 25px;
+  width: 600px;
+  height: 1200px;
+  position: relative;
+}
+
+.contact_2 {
+  width: 200px;
+  height: 300px;
+  /* Center vertically and horizontally */
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin top: -150px
+  magin left: -100px
+  /* Apply negative top and left margins to truly center the element */
+}
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+hr {
+  border-style: dotted none none none;
+  border-color: #E2C2B9;
+  border-width: 5px;
+  width: 5%;
+  font-family: 'Lato';
+  font-size: 40px;
+}
+
+h1 {
+  color: #99A799;
+  text-align: center;
+  font-family: 'Lato';
+  font-size: 40px;
+}
+
+h3 {
+  color: #99A799;
+  font-family: 'Lato';
+  font-size: 22px;
+}
+
+table {
+  margin-left: auto;
+  margin-right: auto;
+  width: 300px;
+  padding: 10px;
+}
+
+tr{
+  margin-left: auto;
+  margin-right: auto;
+  width: 20px;
+}
+
+.socials {
+  margin-left: auto;
+  margin-right: auto;
+  width: 40px;
+  transition: transform .3s;
+  filter: drop-shadow(2px 3px 3px #99A799);
+}
+
+.socials:hover {
+  transform: scale(1.5);
+}
+
+</style>
