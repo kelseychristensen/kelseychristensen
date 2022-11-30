@@ -16,6 +16,7 @@ Hi, I'm Kelsey Christensen!</h2>
 <hr>
 <a href="https://appbrewery.com/p/100-days-of-code">The App Brewery's 100 Days of Python Course</a>
 
+
 <a href="https://www.dailyui.co/">Daily UI's 100 Days of Code Challenge</a><i><br>Follow along on my <a href="https://dribbble.com/kelseychristensen">Dribble!</a></i>
 
 <a href="https://www.codewars.com/users/kelseychristensen">Solving Codewars (when I can) </a>
