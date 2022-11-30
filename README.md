@@ -41,7 +41,4 @@ Hi, I'm Kelsey Christensen!</h2>
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kelseychristensen)](https://github.com/kelseychristensen/github-readme-stats)
-
-
-<img align="right" src="https://media.giphy.com/media/YPQ62IX4xd60xJDaBu/giphy.gif" width="200">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kelseychristensen)](https://github.com/kelseychristensen/github-readme-stats)<img align="right" src="https://media.giphy.com/media/YPQ62IX4xd60xJDaBu/giphy.gif" width="200">
