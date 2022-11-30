@@ -1,6 +1,6 @@
 <h2 align="center"><img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="150"> 
 
-Hi, I'm Kelsey Christensen!</h2>
+Hi, I'm Kelsey!</h2>
 
 <p align="center">I'm an aspiring developer most interested in web development & data science. </p>
 <p align="center">
@@ -14,8 +14,7 @@ Hi, I'm Kelsey Christensen!</h2>
 
 ### <img src="https://media.giphy.com/media/SvQzkTQb3ZwKcj1QTO/giphy.gif" width=20> Currently working on: 
 <hr>
-<a href="https://appbrewery.com/p/100-days-of-code">The App Brewery's 100 Days of Python Course</a>
-
+<a href="https://appbrewery.com/p/100-days-of-code">The App Brewery's 100 Days of Python Course</a><br>
 
 <a href="https://www.dailyui.co/">Daily UI's 100 Days of Code Challenge</a><i><br>Follow along on my <a href="https://dribbble.com/kelseychristensen">Dribble!</a></i>
 
