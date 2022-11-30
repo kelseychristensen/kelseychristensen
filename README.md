@@ -1,4 +1,4 @@
-<h2 align="center"><img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="75"> 
+<h2 align="center"><img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="150"> 
 
 Hi, I'm Kelsey Christensen!</h2>
 
