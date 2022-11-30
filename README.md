@@ -3,7 +3,7 @@
 <p align="left">I'm an aspiring developer most interested in web development & data science.</p>
 <a href="https://dribbble.com/kelseychristensen" target="blank"><img align="center" src="https://img.icons8.com/clouds/512/dribbble.png" height="75"/></a>
 <a href="https://instagram.com/kelseyxtensen" target="blank"><img align="center" src="https://img.icons8.com/clouds/512/instagram-new--v3.png" height="75"/></a>
-<a href="kelseychristensen.com" target="blank"><img align="center" src="https://img.icons8.com/clouds/512/web.png" height="75"/></a>
+<a href="http://kelseychristensen.com/" target="blank"><img align="center" src="https://img.icons8.com/clouds/512/web.png" height="75"/></a>
 <a href="mailto:kelsey.c.christensen@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/clouds/512/open-envelope.png" height="75"/></a>
 <a href="https://www.linkedin.com/in/kelsey-christensen-a48b20109/" target="blank"><img align="center" src="https://img.icons8.com/clouds/512/linkedin.png" height="75"/></a>
 
