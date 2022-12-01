@@ -14,7 +14,7 @@
 
 <a href="https://www.dailyui.co/">Daily UI's 100 Days of Code Challenge</a><i><br>Follow along on my <a href="https://dribbble.com/kelseychristensen">Dribble!</a></i>
 
-<a href="https://www.codewars.com/users/kelseychristensen">Solving Codewars (when I can) </a>
+Solving <a href="https://www.codewars.com/users/kelseychristensen">Codewars</a> (when I can)
 
 
 ### I'm Learning...
