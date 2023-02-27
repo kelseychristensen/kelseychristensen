@@ -37,4 +37,4 @@ Solving <a href="https://www.codewars.com/users/kelseychristensen">Codewars</a> 
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kelseychristensen)](https://github.com/kelseychristensen/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kelseychristensen)](https://github-readme-stats.vercel.app/api/top-langs/?username=kelseychristensen)
