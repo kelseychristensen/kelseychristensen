@@ -1,11 +1,11 @@
 <h2 align="left">Hi, I'm Kelsey! <img align="right" src="https://media.giphy.com/media/YPQ62IX4xd60xJDaBu/giphy.gif" width="200"></h2>
 
 <p align="left">I'm an aspiring developer most interested in web development & data science.</p>
-<a href="https://dribbble.com/kelseychristensen"><img align="center" src="https://img.icons8.com/clouds/512/dribbble.png" height="75"/></a>
-<a href="https://instagram.com/kelseyxtensen"><img align="center" src="https://img.icons8.com/clouds/512/instagram-new--v3.png" height="75"/></a>
-<a href="http://kelseychristensen.com/"><img align="center" src="https://img.icons8.com/clouds/512/web.png" height="75"/></a>
-<a href="mailto:kelsey.c.christensen@gmail.com"><img align="center" src="https://img.icons8.com/clouds/512/open-envelope.png" height="75"/></a>
-<a href="https://www.linkedin.com/in/kelsey-christensen-a48b20109/"><img align="center" src="https://img.icons8.com/clouds/512/linkedin.png" height="75"/></a>
+<a href="https://dribbble.com/kelseychristensen" target="_blank"><img align="center" src="https://img.icons8.com/clouds/512/dribbble.png" height="75"/></a>
+<a href="https://instagram.com/kelseyxtensen" target="_blank"><img align="center" src="https://img.icons8.com/clouds/512/instagram-new--v3.png" height="75"/></a>
+<a href="http://kelseychristensen.com/" target="_blank"><img align="center" src="https://img.icons8.com/clouds/512/web.png" height="75"/></a>
+<a href="mailto:kelsey.c.christensen@gmail.com" target="_blank"><img align="center" src="https://img.icons8.com/clouds/512/open-envelope.png" height="75"/></a>
+<a href="https://www.linkedin.com/in/kelsey-christensen-a48b20109/" target="_blank"><img align="center" src="https://img.icons8.com/clouds/512/linkedin.png" height="75"/></a>
 
 
 ### Currently working on: 
