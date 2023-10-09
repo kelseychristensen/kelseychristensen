@@ -54,9 +54,9 @@ Looking forward to <a href="https://techjamvt.com/">Vermont Tech Jam.</a><br>
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ### Some Certifs! 
+<iframe src="https://api.badgr.io/public/assertions/Sdjxhb08Rq-DmkvSKVfy8w?embedVersion=1&amp;embedWidth=330&amp;embedHeight=191&amp;identity__email=kchristensen%40vtvlc.org" title="Badge: Canvas Certified Technical Admin" style="width: 330px; height: 191px; border: 0px;"></iframe>
+<iframe src="https://api.badgr.io/public/assertions/uQWvyBglTci15YkYZpbRug?embedVersion=1&amp;embedWidth=330&amp;embedHeight=191&amp;identity__email=kchristensen%40vtvlc.org" title="Badge: ELECTIVE: Using the Canvas API" style="width: 330px; height: 191px; border: 0px;"></iframe>
 
-![CCTA](https://api.badgr.io/public/assertions/uQWvyBglTci15YkYZpbRug?identity__email=kchristensen%40vtvlc.org)
-![CanvasAPI](https://api.badgr.io/public/assertions/uQWvyBglTci15YkYZpbRug?identity__email=kchristensen%40vtvlc.org)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kelseychristensen)](https://github-readme-stats.vercel.app/api/top-langs/?username=kelseychristensen)
 
