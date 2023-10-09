@@ -55,18 +55,9 @@ Looking forward to <a href="https://techjamvt.com/">Vermont Tech Jam.</a><br>
 
 ### Some Certifs! 
 
-<a href="https://api.badgr.io/public/assertions/Sdjxhb08Rq-DmkvSKVfy8w?identity__email=kchristensen%40vtvlc.org"><img align="left" src="https://api.badgr.io/public/assertions/Sdjxhb08Rq-DmkvSKVfy8w/image" height="125"/></a>
+<a href="https://api.badgr.io/public/assertions/Sdjxhb08Rq-DmkvSKVfy8w?identity__email=kchristensen%40vtvlc.org"><img src="https://api.badgr.io/public/assertions/Sdjxhb08Rq-DmkvSKVfy8w/image" height="125"/></a>
 
-<a href="https://api.badgr.io/public/assertions/uQWvyBglTci15YkYZpbRug?identity__email=kchristensen%40vtvlc.org"><img align="left" src="https://api.badgr.io/public/assertions/Sdjxhb08Rq-DmkvSKVfy8w/image" height="125"/></a><br>
-<br>
-<hr>
-
-
-
-
-
-
-
+<a href="https://api.badgr.io/public/assertions/uQWvyBglTci15YkYZpbRug?identity__email=kchristensen%40vtvlc.org"><img src="https://api.badgr.io/public/assertions/Sdjxhb08Rq-DmkvSKVfy8w/image" height="125"/></a><br>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kelseychristensen)](https://github-readme-stats.vercel.app/api/top-langs/?username=kelseychristensen)
