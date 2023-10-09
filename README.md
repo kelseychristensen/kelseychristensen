@@ -60,6 +60,11 @@ Looking forward to <a href="https://techjamvt.com/">Vermont Tech Jam.</a><br>
 <a href="https://api.badgr.io/public/assertions/uQWvyBglTci15YkYZpbRug?identity__email=kchristensen%40vtvlc.org"><img align="left" src="https://api.badgr.io/public/assertions/Sdjxhb08Rq-DmkvSKVfy8w/image" height="125"/></a><br>
 <br>
 <hr>
+
+
+
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kelseychristensen)](https://github-readme-stats.vercel.app/api/top-langs/?username=kelseychristensen)
 
 
