@@ -11,8 +11,9 @@
 ### Currently working on: 
 <hr>
 
-Trying to solve ![LeetCodes][https://leetcode.com/kelseychristensen/] when I have time. 
-Working on ![Cinemal Game](https://github.com/kelseychristensen/cinemal) 
+Trying to solve <a href="https://leetcode.com/kelseychristensen/">LeetCodes</a> when I have time. 
+Working on <a href=https://github.com/kelseychristensen/cinemal>Cinemal Game.</a>
+Looking forward to <a href="https://techjamvt.com/">Vermont Tech Jam.</a>
 
 ### I'm Learning...
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
