@@ -11,7 +11,7 @@
 ### Currently working on: 
 <hr>
 
-Trying to solve ![LeetCodes](![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black) when I have time. 
+Trying to solve ![LeetCodes][https://leetcode.com/kelseychristensen/] when I have time. 
 Working on ![Cinemal Game](https://github.com/kelseychristensen/cinemal) 
 
 ### I'm Learning...
