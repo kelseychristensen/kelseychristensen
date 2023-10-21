@@ -1,7 +1,6 @@
 <h2 align="left">Hi, I'm Kelsey! </h2>
 
 <p align="left">I'm an aspiring developer most interested in web development & data science.</p>
-[My Site](https://www.kelseychristensen.com/)
 <a href="https://dribbble.com/kelseychristensen"><img align="center" src="https://img.icons8.com/clouds/512/dribbble.png" height="75"/></a>
 <a href="https://instagram.com/kelseyxtensen" ><img align="center" src="https://img.icons8.com/clouds/512/instagram-new--v3.png" height="75"/></a>
 <a href="http://kelseychristensen.com/"><img align="center" src="https://img.icons8.com/clouds/512/web.png" height="75"/></a>
