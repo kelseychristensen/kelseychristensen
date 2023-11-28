@@ -13,7 +13,6 @@
 
 Trying to solve <a href="https://leetcode.com/kelseychristensen/">LeetCodes</a> when I have time. <br>
 Working on <a href=https://github.com/kelseychristensen/cinemal>Cinemal Game.</a><br>
-Looking forward to <a href="https://techjamvt.com/">Vermont Tech Jam.</a><br>
 
 ### I'm Learning...
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
